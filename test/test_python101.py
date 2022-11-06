@@ -4,7 +4,7 @@ import inspect
 from exercises.python101 import *
 
 
-# No need to change these tests.
+# There's no need to change these tests.
 class TestExercise1_1_2_1:
 
     def test_foo(self):
